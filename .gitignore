@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/Lab1/obj
+/Lab1/bin/Release/net8.0-windows/win-x64
+/Lab1/bin/Release/net8.0-windows/app.publish
+/Lab1/bin
+/Lab1/.vs/Lab1
